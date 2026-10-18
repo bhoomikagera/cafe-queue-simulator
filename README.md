@@ -77,7 +77,4 @@ Run the tests:
 - The results show how staffing affects waits in this model. They aren't a
   recommendation for a real shop.
 
-## Ideas for improvement
-- Use real arrival data, or let customers give up when the line is too long
-- Add separate roles (register versus drinks) with two queues
-- Draw a chart of wait time against staff count
+
